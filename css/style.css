@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* 🙅‍♂️ */
+.wrap{margin:0 auto;width:1400px; padding-bottom:1000px}
+table{width:100%}
+th,td{padding:7px;border:1px solid #000}
+h1, h2{padding:28px 0 14px}
+.txt_gray{color:gray}
+.txt_red{color:red}
+.txt_blue{color:dodgerblue}
+.txt_orange{color:darksalmon}
+
+.cont_box_item{padding-top:20px}
+.cont_box_item_desc{display:block;font-weight:bold}
+.cont_box_item p, .cont_box_item .code{margin:5px 0 5px 15px}
+.txt_large{font-size:27px}
+.txt_indent{text-indent:10px}
+.code{display:inline-block;padding:5px 20px;width:fit-content;background:#f0f0f0;font-size:19px;font-family:'Inconsolata', monospace}
+.code + .code{display:block;margin-left:15px;margin-top:8px}
